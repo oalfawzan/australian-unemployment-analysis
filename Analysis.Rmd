@@ -1,7 +1,6 @@
 ---
 title: "Analysis of Australian Unemployment Rate"
-subtitle: "MATH1318 Time Series Analysis - Assignment - 3"
-author: "Osama Alfawzan (3905369)"
+author: "Osama Alfawzan"
 date: '2023-06-11'
 output:
   pdf_document:
