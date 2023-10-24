@@ -10,7 +10,7 @@ This repository contains a comprehensive analysis of Australia's unemployment ra
 
 ## Repository Contents
 
-1. `Australian_Unemployment_Analysis.pdf`: The main report detailing the analysis, methodologies, and findings.
+1. `Analysis.pdf`: The main report detailing the analysis, methodologies, and findings.
 2. `Analysis.Rmd`: R Markdown file containing the code, visualizations, and narrative used in the analysis.
 3. `README.md`: This file, providing an overview of the repository and project.
 
