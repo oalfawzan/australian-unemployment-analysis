@@ -21,14 +21,10 @@ This repository contains a comprehensive analysis of Australia's unemployment ra
 - **Forecasting** the unemployment rate for the period of 10 months.
 - Insights into the impact of the **COVID-19 pandemic** on unemployment rates and the subsequent recovery.
 
-## Tools and Technologies
+## Tools
 
 - **R**: Used for data analysis and visualization.
 - **R Markdown**: For creating a dynamic report that combines code, visualizations, and narrative.
-
-## How to Use
-1. Open the `Analysis.Rmd` file in RStudio to view the code and narrative.
-2. To generate the report, knit the Rmd file to produce the PDF.
 
 ## Acknowledgements
 
